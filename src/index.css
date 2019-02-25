@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  background-color: #E4EBE0;
+  font-family: 'Ropa Sans', sans-serif;
+}
